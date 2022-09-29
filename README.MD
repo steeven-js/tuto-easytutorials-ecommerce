@@ -8,6 +8,6 @@ git remote add origin https://github.com/steeven-js/tuto-easytutorials-ecommerce
 git push -u origin main
 
 git add .
-git commit -m "first commit"
+git commit -m "E-commerce Web Design In HTML CSS"
 git push -u origin main
 ```
